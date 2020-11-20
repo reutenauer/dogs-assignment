@@ -1,6 +1,6 @@
 # Freespee Dogs
 
-This is a skeleton for a fullstack application.
+This is a skeleton for a fullstack application. Fork this repository and submit a PR with your implementation. Follow the requirements in REQUIREMENTS.md.
 
 ## Development
 
